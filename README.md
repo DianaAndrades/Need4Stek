@@ -21,8 +21,8 @@ To get started with this project, you will need to have a C compiler installed o
 <footer>
     <p>
     © 2023
-    <a href="https://github.com/AlbaCande">Alba Candelario</a>
-    <a href="https://github.com/ItsZcx">Pau Mérida</a>
+    <a href="https://github.com/AlbaCande">Alba Candelario</a> -
+    <a href="https://github.com/ItsZcx">Pau Mérida</a> -
     <a href="https://github.com/DianaAndrades">Diana Andrades</a>
     </p>
 </footer>
